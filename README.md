@@ -1,2 +1,2 @@
-# test-repo
+# testrepo
 repo for testing github
